@@ -1,4 +1,4 @@
-# python_tkinter_calculator
+# Python_Tkinter_Calculator
 
 TOPIC
     
